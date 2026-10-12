@@ -1,0 +1,195 @@
+{
+  "_note": "Edit this file to update product details. All prices and contents are UNCONFIRMED until the business supplies them. Fields marked null or empty show a 'Details coming soon' state.",
+  "currency": "INR",
+  "deliveryFeeDefault": null,
+  "deliveryZones": [],
+  "returnPolicy": null,
+  "products": [
+    {
+      "id": "bike",
+      "name": "Two-Wheeler Pooja Kit",
+      "slug": "two-wheeler-pooja-kit",
+      "category": "vehicle",
+      "price": 499,
+      "priceConfirmed": false,
+      "compareAtPrice": null,
+      "availability": "coming_soon",
+      "stock": null,
+      "images": [
+        { "src": "assets/new-two-wheeler-pooja.png", "alt": "Two-Wheeler Pooja Kit laid out flat" }
+      ],
+      "gallery": [],
+      "includedItems": [
+        { "name": "Kumkum", "note": "For the vehicle tilak" },
+        { "name": "Haldi", "note": "A traditional auspicious offering" },
+        { "name": "Akshat rice", "note": "For the sankalp and offering" },
+        { "name": "Moli thread", "note": "For the pooja ritual" },
+        { "name": "Flowers or garland", "note": "To welcome the new ride" },
+        { "name": "Coconut", "note": "A traditional vehicle-pooja offering" }
+      ],
+      "contentsConfirmed": false,
+      "addOns": [],
+      "ritualUse": "A compact set of suggested essentials for welcoming a new two-wheeler with a traditional vehicle pooja.",
+      "deliveryEstimate": null,
+      "careNotes": null,
+      "faqs": [],
+      "reviews": [],
+      "notes": "Contents, price, stock and delivery terms not yet supplied by the business."
+    },
+    {
+      "id": "car",
+      "name": "New Car Pooja Kit",
+      "slug": "new-car-pooja-kit",
+      "category": "vehicle",
+      "price": 999,
+      "priceConfirmed": false,
+      "compareAtPrice": null,
+      "availability": "coming_soon",
+      "stock": null,
+      "images": [
+        { "src": "assets/new-car-pooja.png", "alt": "New Car Pooja Kit laid out flat" }
+      ],
+      "gallery": [],
+      "includedItems": [
+        { "name": "Kumkum", "note": "For the vehicle tilak" },
+        { "name": "Haldi", "note": "A traditional auspicious offering" },
+        { "name": "Akshat rice", "note": "For the sankalp and offering" },
+        { "name": "Moli thread", "note": "For the pooja ritual" },
+        { "name": "Flowers or garland", "note": "To welcome the new car" },
+        { "name": "Coconut and incense", "note": "Common vehicle-pooja offerings" }
+      ],
+      "contentsConfirmed": false,
+      "addOns": [],
+      "ritualUse": "Suggested essentials for a new-car pooja and a warm welcome for your new ride.",
+      "deliveryEstimate": null,
+      "careNotes": null,
+      "faqs": [],
+      "reviews": [],
+      "notes": "Contents, price, stock and delivery terms not yet supplied by the business."
+    },
+    {
+      "id": "home",
+      "name": "Griha Pravesh Kit",
+      "slug": "griha-pravesh-kit",
+      "category": "home",
+      "price": 1499,
+      "priceConfirmed": false,
+      "compareAtPrice": null,
+      "availability": "coming_soon",
+      "stock": null,
+      "images": [
+        { "src": "assets/griha-pravesh-scene.png", "alt": "Griha Pravesh Kit laid out flat" }
+      ],
+      "gallery": [],
+      "includedItems": [
+        { "name": "Kalash", "note": "For the welcoming ritual" },
+        { "name": "Coconut and mango leaves", "note": "Often used with the kalash; customs vary" },
+        { "name": "Kumkum and haldi", "note": "For the auspicious tilak" },
+        { "name": "Akshat rice", "note": "For the traditional offerings" },
+        { "name": "Diya and cotton wicks", "note": "For the opening pooja" },
+        { "name": "Incense and flowers", "note": "Traditional pooja offerings" }
+      ],
+      "contentsConfirmed": false,
+      "addOns": [],
+      "ritualUse": "A suggested collection for griha pravesh, the ritual of welcoming auspiciousness into a new home.",
+      "deliveryEstimate": null,
+      "careNotes": null,
+      "faqs": [],
+      "reviews": [],
+      "notes": "Contents, price, stock and delivery terms not yet supplied by the business."
+    },
+    {
+      "id": "diwali",
+      "name": "Diwali Pooja Kit",
+      "slug": "diwali-pooja-kit",
+      "category": "festival",
+      "price": 999,
+      "priceConfirmed": false,
+      "compareAtPrice": null,
+      "availability": "coming_soon",
+      "stock": null,
+      "images": [
+        { "src": "assets/diwali-scene.png", "alt": "Diwali Pooja Kit laid out flat" }
+      ],
+      "gallery": [],
+      "includedItems": [
+        { "name": "Diya and cotton wicks", "note": "For the festival of lights" },
+        { "name": "Kumkum and haldi", "note": "For Lakshmi-Ganesh pooja" },
+        { "name": "Akshat rice", "note": "For the traditional offerings" },
+        { "name": "Incense", "note": "For the pooja" },
+        { "name": "Flowers", "note": "A traditional offering" },
+        { "name": "Moli thread", "note": "For the pooja ritual" }
+      ],
+      "contentsConfirmed": false,
+      "addOns": [],
+      "ritualUse": "Suggested essentials for a Diwali Lakshmi-Ganesh pooja and the festival of lights.",
+      "deliveryEstimate": null,
+      "careNotes": null,
+      "faqs": [],
+      "reviews": [],
+      "notes": "Contents, price, stock and delivery terms not yet supplied by the business."
+    },
+    {
+      "id": "navratri",
+      "name": "Navratri Pooja Kit",
+      "slug": "navratri-pooja-kit",
+      "category": "festival",
+      "price": 999,
+      "priceConfirmed": false,
+      "compareAtPrice": null,
+      "availability": "coming_soon",
+      "stock": null,
+      "images": [
+        { "src": "assets/navratri-scene.png", "alt": "Navratri Pooja Kit laid out flat" }
+      ],
+      "gallery": [],
+      "includedItems": [
+        { "name": "Kalash and coconut", "note": "For ghat sthapana; regional practices vary" },
+        { "name": "Mango leaves", "note": "A traditional kalash decoration" },
+        { "name": "Kumkum and akshat", "note": "For the pooja offerings" },
+        { "name": "Red chunri", "note": "A devotional offering" },
+        { "name": "Diya and cotton wicks", "note": "For the aarti" },
+        { "name": "Flowers and incense", "note": "Traditional pooja offerings" }
+      ],
+      "contentsConfirmed": false,
+      "addOns": [],
+      "ritualUse": "Suggested essentials for Navratri worship and kalash sthapana, with customs that may differ by family and region.",
+      "deliveryEstimate": null,
+      "careNotes": null,
+      "faqs": [],
+      "reviews": [],
+      "notes": "Contents, price, stock and delivery terms not yet supplied by the business."
+    },
+    {
+      "id": "nazar",
+      "name": "Nazar Raksha Kit",
+      "slug": "nazar-raksha-kit",
+      "category": "everyday",
+      "price": 699,
+      "priceConfirmed": false,
+      "compareAtPrice": null,
+      "availability": "coming_soon",
+      "stock": null,
+      "images": [
+        { "src": "assets/nazar-raksha-kit.png", "alt": "Nazar Raksha Kit laid out flat" }
+      ],
+      "gallery": [],
+      "includedItems": [
+        { "name": "Nazar raksha charm", "note": "A symbolic protective keepsake" },
+        { "name": "Black thread", "note": "Used in some regional nazar traditions" },
+        { "name": "Kumkum", "note": "For the ritual mark" },
+        { "name": "Haldi", "note": "A traditional auspicious offering" },
+        { "name": "Akshat rice", "note": "For the pooja offering" },
+        { "name": "Incense", "note": "For the pooja" }
+      ],
+      "contentsConfirmed": false,
+      "addOns": [],
+      "ritualUse": "A suggested set of traditional items associated with nazar raksha; practices vary across families and regions.",
+      "deliveryEstimate": null,
+      "careNotes": null,
+      "faqs": [],
+      "reviews": [],
+      "notes": "Contents, price, stock and delivery terms not yet supplied by the business."
+    }
+  ]
+}

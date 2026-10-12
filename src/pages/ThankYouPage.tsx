@@ -1,0 +1,2 @@
+import { Link } from 'react-router-dom'
+export default function ThankYouPage() { return <section className="container-site py-24 text-center min-h-[55vh]"><div className="text-4xl text-[var(--gold)]">✦</div><p className="eyebrow mt-4">Thank you</p><h1 className="font-serif text-4xl md:text-5xl font-bold text-forest mt-2">A lovely beginning.</h1><p className="text-[var(--muted)] mt-3">Your enquiry has been received. We’ll be in touch to confirm the details.</p><Link to="/shop" className="btn mt-7">Back to the collection</Link></section> }
